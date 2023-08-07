@@ -50,6 +50,6 @@ def bbc_recipe_dict(URL):
 # Create a dictionary for the the data to be stored, for testing only. 
 recipe_complete_details = {}
 
-poop = bbc_recipe_dict('https://www.bbc.co.uk/food/recipes/vegan_mac_and_cheese_32466')
+poop = bbc_recipe_dict('https://www.bbc.co.uk/food/recipes/fried_chicken_sandwich_58048')
 print(poop)
 
